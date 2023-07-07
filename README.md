@@ -46,7 +46,7 @@ tunnels from a reverse TCP/TLS connection using a **tun interface** (without the
 
 - **Tun interface** (No more SOCKS!)
 - Simple UI with *agent* selection and *network information*
-- Easy to use and setup
+- Easy to use and set up
 - Automatic certificate configuration with Let's Encrypt
 - Performant (Multiplexing)
 - Does not require high privileges
